@@ -1,0 +1,11 @@
+{
+  "[al]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-dynamics-smb.al"
+  },
+  "al.codeAnalyzers": [
+    "CodeCop",
+    "AppSourceCop",
+    "PerTenantExtensionCop"
+  ]
+}
