@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Your environment",
+      "type": "al",
+      "request": "launch",
+      "serverInstance": "BC",
+      "server": "http://localhost",
+      "port": 7049,
+      "tenant": "default",
+      "startupObjectId": 22,
+      "startupObjectType": "Page"
+    }
+  ]
+}
